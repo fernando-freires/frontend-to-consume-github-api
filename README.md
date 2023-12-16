@@ -1,8 +1,5 @@
-# React + Vite
+# Created a screen that will list all users from GitHub and will display their ID and Login with pagination
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Using the screen created in step 3 of the chalange a new screen was created, that will display the details of a user (ID, Login, Profile URL and the date of the login creation)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# On the details screen a table was added that will display the public repositories of the user, this table must contain the ID, name, and URL to the repository.
